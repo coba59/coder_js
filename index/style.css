@@ -1,0 +1,212 @@
+.indice {
+    font-size: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 220, 195);
+    border-right: 3px rgb(252, 221, 194);
+    text-transform: uppercase;
+    list-style: none;
+    border: black;
+   
+
+
+} 
+nav a {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    border: black;
+}
+
+h1 {
+    background-image: url("img/italia.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+
+    font-style: oblique;
+    font-size: 60px;
+    text-align: center;
+}
+
+body {
+    background-image: url("img/as.webp");
+    border-image-width: 20%;
+height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.info {
+    display: flex;
+    top: 10px;
+    right: -200px;
+
+}
+
+.pal {
+    margin-left: 55px;
+    display: flex;
+    background-color: rgb(255, 223, 197);
+    text-align: justify;
+    width: 75%;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.pal>p {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 65px;
+    text-align: center center;
+}
+
+.col {
+    margin-left: 55px;
+    display: flex;
+    background-color: rgb(255, 223, 197);
+    text-align: justify;
+    width: 75%;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.col>p {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 65px;
+    text-align: center center;
+}
+
+.camp {
+    margin-left: 55px;
+    display: flex;
+    background-color: rgb(255, 223, 197);
+    text-align: justify;
+    width: 75%;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.camp>p {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 65px;
+    text-align: center center;
+}
+
+.basi {
+    margin-left: 55px;
+    display: flex;
+    background-color: rgb(255, 223, 197);
+    text-align: justify;
+    width: 75%;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.basi>p {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 65px;
+    text-align: center center;
+}
+
+.cast {
+    margin-left: 55px;
+    display: flex;
+    background-color: rgb(255, 223, 197);
+    text-align: justify;
+    width: 75%;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.cast>p {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 65px;
+    text-align: center center;
+}
+
+#transp {
+
+    margin-top: 10px;
+    
+}
+#metr {margin-left: 55px;
+    display: flex;
+    background-color: rgb(255, 223, 197);
+    text-align: justify;
+    width: 75%;
+    border-radius: 15px;
+    padding: 15px;}
+
+   .tar {
+    background-color: rgb(255, 223, 197);
+    text-align: justify;
+    width: 70%;
+    margin-top: 10px;
+    margin-bottom: 45px;
+     } 
+
+     .tpl { background-color: rgb(255, 223, 197);
+        margin-top: 10px;
+        margin-bottom: 45px;
+        text-align: justify;
+        width: 70%;}
+
+
+.contacto { 
+    background-color: rgb(255, 223, 197);
+        margin-top: 45px;
+        margin-bottom: 45px;
+        text-align: center;
+        width: 210px
+}
+
+#gal{margin-top: 55px;
+ }
+ 
+  .contenido-grilla {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 1em;
+  }
+  
+  #pagina {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  #contenido {
+    padding-bottom:50px;
+  }
+  
+  .pie 
+  { 
+    font-size: 20px;
+    padding: 20px;
+    background-color: rgb(255, 220, 195);
+    border-right: 3px rgb(252, 221, 194);
+    list-style: none;
+    text-decoration: none;
+    border: black;
+    
+  }
+  
+  
+  
+
+  
+  
+    
+  
+  
+ 
+  
+  
+  
+  
